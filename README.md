@@ -1,6 +1,7 @@
 # Amazon_Vine_Analysis
 BIG data, Jupyter Notebook
 # Overview of the analysis:
+[Link to Shoes Review](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Shoes_v1_00.tsv.gz)
 The purpose of this analysis was to find out if there is any review bias on a customers participation in the Amazon Vine Program. I chose to look at the Shoes category. I wanted to find out if the customers were more likey to give a 5 star review if they were a participant in the program or they actually liked the shoes
 
 # Results: 
