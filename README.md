@@ -11,5 +11,5 @@ The Vine reviews, non-Vine reviews, Vine review(5 stars), non Vine-review(5 star
 ![image](https://user-images.githubusercontent.com/96274446/164996994-09ca60b0-f49b-4eb6-bc38-96d2d5f41077.png)
 
 
-
-# Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+# Summary: 
+With the numbers shown above, I do not think there was no significant bias in the reviews that were presented in the shoe category. The percentage of 5 star review is 59% and the one for no five star review is 53.6%. There is not significant difference. The participants must have liked the shoes
