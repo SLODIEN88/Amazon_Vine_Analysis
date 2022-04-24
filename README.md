@@ -12,4 +12,4 @@ The Vine reviews, non-Vine reviews, Vine review(5 stars), non Vine-review(5 star
 
 
 # Summary: 
-With the numbers shown above, I do not think there was no significant bias in the reviews that were presented in the shoe category. The percentage of 5 star review is 59% and the one for no five star review is 53.6%. There is not significant difference. The participants must have liked the shoes
+With the numbers shown above, I do not think there was no significant bias in the reviews that were presented in the shoe category. The percentage of 5 star review is 59% and the one for no five star review is 53.6%. There is not significant difference. The participants must have liked the shoes. One thing we could have looked at is the demographic. That would have put the review in percepective 
