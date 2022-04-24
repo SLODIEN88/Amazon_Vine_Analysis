@@ -5,7 +5,7 @@ The purpose of this analysis was to find out if there is any review bias on a cu
 
 # Results: 
 
-Based on the vine reviews of the shoes, the paid and the upaind reviews seem to have the same percentage. Here are the details
+Based on the vine reviews of the shoes, the paid and the upaind reviews seem to have the same percentage.
 The Vine reviews, non-Vine reviews, Vine review(5 stars), non Vine-review(5 stars), percentages of vine and non-vine review stars are below:
 
 ![image](https://user-images.githubusercontent.com/96274446/164996994-09ca60b0-f49b-4eb6-bc38-96d2d5f41077.png)
